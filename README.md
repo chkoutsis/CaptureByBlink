@@ -1,3 +1,3 @@
 # capture_by_blink
 
-This project is stand for image capturing using blink detection.
+This project has to do with image capturing using blink detection.
